@@ -1,0 +1,28 @@
+{
+  "name": "OGDiscordBot",
+  "version": "1.0.0",
+  "description": "Bot For Discord",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon ./server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannyotown/OGDiscordBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dannyotown/OGDiscordBot/issues"
+  },
+  "homepage": "https://github.com/dannyotown/OGDiscordBot#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
