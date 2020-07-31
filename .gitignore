@@ -2,4 +2,4 @@
 .env
 
 ##ignore modules
-./node-modules
+node_modules/
